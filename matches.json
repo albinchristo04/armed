@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T09:35:47.332683+00:00",
+  "last_updated": "2026-03-09T10:33:02.702033+00:00",
   "total_matches": 42,
   "matches": [
     {
@@ -24,7 +24,7 @@
         "https://livesporthub.shop/live/stream-39.php",
         "https://livessports.shop/myplayer/stream-550.php"
       ],
-      "scraped_at": "2026-03-09T09:32:38.921967+00:00"
+      "scraped_at": "2026-03-09T10:29:54.316711+00:00"
     },
     {
       "home_team": "West Ham United",
@@ -34,11 +34,11 @@
       "score": "",
       "league": "FA CUP",
       "league_logo": "/images/FA-CUP.png",
-      "status": "Starts in 10hr:6min",
+      "status": "Starts in 9hr:5min",
       "match_url": "https://www.footybite.army/West-Ham-United-vs-Brentford/63745",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:32:41.236206+00:00"
+      "scraped_at": "2026-03-09T10:29:56.429736+00:00"
     },
     {
       "home_team": "Espanyol",
@@ -48,11 +48,11 @@
       "score": "",
       "league": "La Liga",
       "league_logo": "/images/La-Liga.png",
-      "status": "Starts in 10hr:36min",
+      "status": "Starts in 9hr:35min",
       "match_url": "https://www.footybite.army/Espanyol-vs-Real-Oviedo/63596",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:32:43.309081+00:00"
+      "scraped_at": "2026-03-09T10:29:58.371811+00:00"
     },
     {
       "home_team": "Lazio",
@@ -62,11 +62,11 @@
       "score": "",
       "league": "Serie A",
       "league_logo": "/images/Serie-A.png",
-      "status": "Starts in 10hr:21min",
+      "status": "Starts in 9hr:20min",
       "match_url": "https://www.footybite.army/Lazio-vs-Sassuolo/63948",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:32:45.386164+00:00"
+      "scraped_at": "2026-03-09T10:30:00.331536+00:00"
     },
     {
       "home_team": "Jai Opetaia",
@@ -81,7 +81,7 @@
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel23",
-        "https://embedsports.top/embed-noads/echo/ppv-event-05-opetaia-v-glanton-ppv-05/1#player=clappr",
+        "https://foxtrend.net/event/zuffa-boxing-4-opetaia-vs-glanton-2436339t",
         "https://shd247.click/live-soccer-streaming-11-total.html",
         "https://rippleplay.store/jai-opetaia-vs-brandon-glanton/",
         "https://papashd.info/jai-opetaia",
@@ -89,9 +89,9 @@
         "https://prostreams.shop/now/stream-55.php",
         "https://ziggo-gratis.com/total279-1/s23.php",
         "https://embedhd.org/source/fetch.php?hd=111",
-        "https://antenasport.org/dazn1ppv.php"
+        "https://surfg.org/?p=15392"
       ],
-      "scraped_at": "2026-03-09T09:32:54.760160+00:00"
+      "scraped_at": "2026-03-09T10:30:09.716834+00:00"
     },
     {
       "home_team": "WWE",
@@ -101,11 +101,11 @@
       "score": "",
       "league": "WWE",
       "league_logo": "/images/WWE.png",
-      "status": "Starts in 12hr:6min",
+      "status": "Starts in 11hr:5min",
       "match_url": "https://www.footybite.army/WWE-vs-Monday-Night-RAW/61112",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:32:56.831318+00:00"
+      "scraped_at": "2026-03-09T10:30:11.653730+00:00"
     },
     {
       "home_team": "Eyupspor",
@@ -115,11 +115,11 @@
       "score": "",
       "league": "superlig",
       "league_logo": "/images/superlig.png",
-      "status": "Starts in 3hr:36min",
+      "status": "Starts in 2hr:35min",
       "match_url": "https://www.footybite.army/Eyupspor-vs-Kocaelispor/63646",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:32:59.056821+00:00"
+      "scraped_at": "2026-03-09T10:30:13.586061+00:00"
     },
     {
       "home_team": "Alanyaspor",
@@ -129,11 +129,11 @@
       "score": "",
       "league": "superlig",
       "league_logo": "/images/superlig.png",
-      "status": "Starts in 7hr:36min",
+      "status": "Starts in 6hr:35min",
       "match_url": "https://www.footybite.army/Alanyaspor-vs-Genclerbirligi/63647",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:33:01.133097+00:00"
+      "scraped_at": "2026-03-09T10:30:15.537758+00:00"
     },
     {
       "home_team": "Kayserispor",
@@ -143,11 +143,11 @@
       "score": "",
       "league": "superlig",
       "league_logo": "/images/superlig.png",
-      "status": "Starts in 7hr:36min",
+      "status": "Starts in 6hr:35min",
       "match_url": "https://www.footybite.army/Kayserispor-vs-Trabzonspor/63648",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:33:03.207557+00:00"
+      "scraped_at": "2026-03-09T10:30:17.484122+00:00"
     },
     {
       "home_team": "Tondela",
@@ -157,11 +157,11 @@
       "score": "",
       "league": "Primeiraliga",
       "league_logo": "/images/Primeiraliga.png",
-      "status": "Starts in 10hr:51min",
+      "status": "Starts in 9hr:50min",
       "match_url": "https://www.footybite.army/Tondela-vs-Rio-Ave/64094",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:33:05.220816+00:00"
+      "scraped_at": "2026-03-09T10:30:19.438989+00:00"
     },
     {
       "home_team": "Cincinnati",
@@ -186,7 +186,7 @@
         "https://pappahd.click/cincinnati-vs-toronto-fc",
         "https://forfreetimeuse.club/embed/tv/10.php"
       ],
-      "scraped_at": "2026-03-09T09:33:11.894578+00:00"
+      "scraped_at": "2026-03-09T10:30:25.743895+00:00"
     },
     {
       "home_team": "Dunkerque",
@@ -196,11 +196,11 @@
       "score": "",
       "league": "Ligue 2",
       "league_logo": "/images/Ligue 2.png",
-      "status": "Starts in 10hr:21min",
+      "status": "Starts in 9hr:20min",
       "match_url": "https://www.footybite.army/Dunkerque-vs-Reims/63657",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:33:13.913122+00:00"
+      "scraped_at": "2026-03-09T10:30:27.675949+00:00"
     },
     {
       "home_team": "Almeria",
@@ -210,11 +210,11 @@
       "score": "",
       "league": "La Liga 2",
       "league_logo": "/images/La Liga 2.png",
-      "status": "Starts in 10hr:6min",
+      "status": "Starts in 9hr:5min",
       "match_url": "https://www.footybite.army/Almeria-vs-Cultural-Leonesa/63639",
       "kick_off": "",
       "iframe_urls": [],
-      "scraped_at": "2026-03-09T09:33:15.985434+00:00"
+      "scraped_at": "2026-03-09T10:30:29.626166+00:00"
     },
     {
       "home_team": "Stars",
@@ -235,11 +235,11 @@
         "https://prostreams.shop/now/stream-14.php",
         "https://bizzstreams.shop/tv/stream-14.php",
         "https://pappahd.click/dallas-stars-vs-chicago-blackhawks",
-        "https://streams.center/embed/ch53.php",
+        "https://surfg.org/?p=15410",
         "https://forfreetimeuse.club/embed/nhl/4.php",
         "https://yeahstreams.com/tv/stream 14.php"
       ],
-      "scraped_at": "2026-03-09T09:33:21.574411+00:00"
+      "scraped_at": "2026-03-09T10:30:37.066881+00:00"
     },
     {
       "home_team": "Sabres",
@@ -260,11 +260,11 @@
         "https://prostreams.shop/now/stream-15.php",
         "https://bizzstreams.shop/tv/stream-15.php",
         "https://pappahd.click/buffalo-sabres-vs-tampa-bay-lightning",
-        "https://streams.center/embed/ch52.php",
+        "https://surfg.org/?p=15409",
         "https://forfreetimeuse.club/embed/nhl/3.php",
         "https://yeahstreams.com/tv/stream 15.php"
       ],
-      "scraped_at": "2026-03-09T09:33:27.426109+00:00"
+      "scraped_at": "2026-03-09T10:30:44.546556+00:00"
     },
     {
       "home_team": "Devils",
@@ -285,11 +285,11 @@
         "https://prostreams.shop/now/stream-16.php",
         "https://bizzstreams.shop/tv/stream-16.php",
         "https://pappahd.click/new-jersey-devils-vs-detroit-red-wings",
-        "https://streams.center/embed/ch54.php",
+        "https://surfg.org/?p=15411",
         "https://forfreetimeuse.club/embed/nhl/5.php",
         "https://sport9.ru/watch/detroit-red-wings-vs-new-jersey-devils-2026-03-09"
       ],
-      "scraped_at": "2026-03-09T09:33:32.567117+00:00"
+      "scraped_at": "2026-03-09T10:30:51.914033+00:00"
     },
     {
       "home_team": "Ducks",
@@ -308,13 +308,13 @@
         "https://prostreams.shop/now/stream-17.php",
         "https://bizzstreams.shop/tv/stream-17.php",
         "https://pappahd.click/anaheim-ducks-vs-st-louis-blues",
-        "https://streams.center/embed/ch55.php",
+        "https://surfg.org/?p=15412",
         "https://forfreetimeuse.club/embed/nhl/6.php",
         "https://yeahstreams.com/tv/stream- 17.php",
         "https://sport9.ru/watch/st-louis-blues-vs-anaheim-ducks-2026-03-09",
         "https://sportsslives.shop/embed/stream-17.php"
       ],
-      "scraped_at": "2026-03-09T09:33:38.233939+00:00"
+      "scraped_at": "2026-03-09T10:30:59.255808+00:00"
     },
     {
       "home_team": "Golden Knights",
@@ -334,12 +334,12 @@
         "https://prostreams.shop/now/stream-18.php",
         "https://bizzstreams.shop/tv/stream-18.php",
         "https://pappahd.click/vegas-golden-knights-vs-edmonton-oilers",
-        "https://streams.center/embed/ch56.php",
+        "https://surfg.org/?p=15413",
         "https://forfreetimeuse.club/embed/nhl/7.php",
         "https://yeahstreams.com/tv/stream- 18.php",
         "https://sport9.ru/watch/edmonton-oilers-vs-vegas-golden-knights-2026-03-09"
       ],
-      "scraped_at": "2026-03-09T09:33:43.552931+00:00"
+      "scraped_at": "2026-03-09T10:31:06.690671+00:00"
     },
     {
       "home_team": "Blue Jackets",
@@ -349,7 +349,7 @@
       "score": "",
       "league": "nhl",
       "league_logo": "/images/nhl.png",
-      "status": "Starts in 10hr:36min",
+      "status": "Starts in 9hr:35min",
       "match_url": "https://www.footybite.army/Blue-Jackets-vs-Kings/64219",
       "kick_off": "",
       "iframe_urls": [
@@ -364,7 +364,7 @@
         "https://buffztreamz.shop/tv/stream-8.php",
         "https://sport9.ru/watch/los-angeles-kings-vs-columbus-blue-jackets-2026-03-09"
       ],
-      "scraped_at": "2026-03-09T09:33:50.734704+00:00"
+      "scraped_at": "2026-03-09T10:31:13.718353+00:00"
     },
     {
       "home_team": "Flyers",
@@ -374,7 +374,7 @@
       "score": "",
       "league": "nhl",
       "league_logo": "/images/nhl.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Flyers-vs-Rangers/58828",
       "kick_off": "",
       "iframe_urls": [
@@ -389,7 +389,7 @@
         "https://worldstreams.shop/tv/stream-10.php",
         "https://topstreams.click/index.php/2026/01/17/new-york-rangers-vs-philadelphia-flyers/"
       ],
-      "scraped_at": "2026-03-09T09:33:56.645855+00:00"
+      "scraped_at": "2026-03-09T10:31:18.859945+00:00"
     },
     {
       "home_team": "Capitals",
@@ -399,7 +399,7 @@
       "score": "",
       "league": "nhl",
       "league_logo": "/images/nhl.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Capitals-vs-Flames/58829",
       "kick_off": "",
       "iframe_urls": [
@@ -414,7 +414,7 @@
         "https://worldstreams.shop/tv/stream-9.php",
         "https://1ststreams.shop/stream/stream-9.php"
       ],
-      "scraped_at": "2026-03-09T09:34:01.253400+00:00"
+      "scraped_at": "2026-03-09T10:31:23.291285+00:00"
     },
     {
       "home_team": "Blackhawks",
@@ -424,22 +424,22 @@
       "score": "",
       "league": "nhl",
       "league_logo": "/images/nhl.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Blackhawks-vs-Mammoth/58830",
       "kick_off": "",
       "iframe_urls": [
         "https://embedhd.org/source/fetch.php?hd=225",
         "https://live.onlyscooer.space/live/embed.php?ch=es102",
         "https://prostreams.shop/now/stream-11.php",
+        "https://bizzstreams.shop/tv/stream-11.php",
         "https://techydeals.xyz/totalsportek1903425/nhl/4.php",
         "https://yeahstreams.com/tv/stream- 11.php",
         "https://buffztreamz.shop/tv/stream-11.php",
         "https://sport9.ru/watch/utah-mammoth-vs-chicago-blackhawks-2026-03-10",
         "https://worldstreams.shop/tv/stream-11.php",
-        "https://1ststreams.shop/stream/stream-11.php",
-        "https://sportsstreams.shop/play/stream-11.php"
+        "https://1ststreams.shop/stream/stream-11.php"
       ],
-      "scraped_at": "2026-03-09T09:34:05.836992+00:00"
+      "scraped_at": "2026-03-09T10:31:27.628312+00:00"
     },
     {
       "home_team": "Canucks",
@@ -449,22 +449,22 @@
       "score": "",
       "league": "nhl",
       "league_logo": "/images/nhl.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Canucks-vs-Senators/58831",
       "kick_off": "",
       "iframe_urls": [
         "https://embedhd.org/source/fetch.php?hd=247",
         "https://live.onlyscooer.space/live/embed.php?ch=es101",
+        "https://prostreams.shop/now/stream-12.php",
+        "https://bizzstreams.shop/tv/stream-12.php",
         "https://techydeals.xyz/totalsportek1903425/nhl/5.php",
         "https://yeahstreams.com/tv/stream- 12.php",
         "https://buffztreamz.shop/tv/stream-12.php",
         "https://sport9.ru/watch/ottawa-senators-vs-vancouver-canucks-2026-03-10",
         "https://jumbolin.foo/090326-1/ch-8.html",
-        "https://worldstreams.shop/tv/stream-12.php",
-        "https://1ststreams.shop/stream/stream-12.php",
-        "https://sportsstreams.shop/play/stream-12.php"
+        "https://worldstreams.shop/tv/stream-12.php"
       ],
-      "scraped_at": "2026-03-09T09:34:10.222165+00:00"
+      "scraped_at": "2026-03-09T10:31:31.792845+00:00"
     },
     {
       "home_team": "Cleveland Cavaliers",
@@ -474,22 +474,22 @@
       "score": "",
       "league": "nba",
       "league_logo": "/images/nba.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Cleveland-Cavaliers-vs-Philadelphia-76ers/58716",
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel9",
         "https://topstreams.info/nba/cavaliers",
+        "https://soccermlbstreams.shop/tv/stream-3.php",
         "https://embedhd.org/source/fetch.php?hd=506",
         "https://live.onlyscooer.space/live/embed.php?ch=es30",
         "https://bizzstreams.shop/tv/stream-3.php",
         "https://ziggo-gratis.com/embeds/9.php",
         "https://prostreams.shop/now/stream-3.php",
         "https://techydeals.xyz/totalsportek1903425/nba/1.php",
-        "https://yeahstreams.com/tv/stream- 3.php",
-        "https://buffztreamz.shop/tv/stream-3.php"
+        "https://yeahstreams.com/tv/stream- 3.php"
       ],
-      "scraped_at": "2026-03-09T09:34:16.554733+00:00"
+      "scraped_at": "2026-03-09T10:31:37.119851+00:00"
     },
     {
       "home_team": "Oklahoma City Thunder",
@@ -499,22 +499,22 @@
       "score": "",
       "league": "nba",
       "league_logo": "/images/nba.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Oklahoma-City-Thunder-vs-Denver-Nuggets/58717",
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel8",
         "https://topstreams.info/nba/thunder",
+        "https://soccermlbstreams.shop/tv/stream-2.php",
         "https://embedhd.org/source/fetch.php?hd=520",
         "https://live.onlyscooer.space/live/embed.php?ch=es28",
         "https://bizzstreams.shop/tv/stream-2.php",
         "https://ziggo-gratis.com/embeds/8.php",
         "https://prostreams.shop/now/stream-2.php",
         "https://techydeals.xyz/totalsportek1903425/nba/3.php",
-        "https://yeahstreams.com/tv/stream-2.php",
-        "https://buffztreamz.shop/tv/stream-2.php"
+        "https://yeahstreams.com/tv/stream-2.php"
       ],
-      "scraped_at": "2026-03-09T09:34:22.356130+00:00"
+      "scraped_at": "2026-03-09T10:31:42.646572+00:00"
     },
     {
       "home_team": "Brooklyn Nets",
@@ -524,22 +524,22 @@
       "score": "",
       "league": "nba",
       "league_logo": "/images/nba.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Brooklyn-Nets-vs-Memphis-Grizzlies/58718",
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel10",
         "https://topstreams.info/nba/nets",
+        "https://soccermlbstreams.shop/tv/stream-4.php",
         "https://embedhd.org/source/fetch.php?hd=503",
         "https://live.onlyscooer.space/live/embed.php?ch=es29",
         "https://bizzstreams.shop/tv/stream-4.php",
         "https://ziggo-gratis.com/embeds/10.php",
         "https://prostreams.shop/now/stream-4.php",
         "https://techydeals.xyz/totalsportek1903425/nba/2.php",
-        "https://yeahstreams.com/tv/stream- 4.php",
-        "https://buffztreamz.shop/tv/stream-4.php"
+        "https://yeahstreams.com/tv/stream- 4.php"
       ],
-      "scraped_at": "2026-03-09T09:34:28.874070+00:00"
+      "scraped_at": "2026-03-09T10:31:48.562330+00:00"
     },
     {
       "home_team": "Utah Jazz",
@@ -549,22 +549,22 @@
       "score": "",
       "league": "nba",
       "league_logo": "/images/nba.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/Utah-Jazz-vs-Golden-State-Warriors/58719",
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel11",
         "https://topstreams.info/nba/jazz",
+        "https://soccermlbstreams.shop/tv/stream-6.php",
         "https://pandastreams.shop/player/stream-8.php",
         "https://pandastreams.shop/player/stream-9.php",
         "https://prostreams.shop/now/stream-8.php",
         "https://surfg.org/?p=12275",
         "https://embedhd.org/source/fetch.php?hd=528",
         "https://live.onlyscooer.space/live/embed.php?ch=es31",
-        "https://bizzstreams.shop/tv/stream-6.php",
-        "https://ziggo-gratis.com/embeds/11.php"
+        "https://bizzstreams.shop/tv/stream-6.php"
       ],
-      "scraped_at": "2026-03-09T09:34:37.548615+00:00"
+      "scraped_at": "2026-03-09T10:31:56.721076+00:00"
     },
     {
       "home_team": "LA Clippers",
@@ -574,22 +574,22 @@
       "score": "",
       "league": "nba",
       "league_logo": "/images/nba.png",
-      "status": "Starts in 13hr:36min",
+      "status": "Starts in 12hr:35min",
       "match_url": "https://www.footybite.army/LA-Clippers-vs-New-York-Knicks/58720",
       "kick_off": "",
       "iframe_urls": [
         "https://nflwebhunter.top/channel12",
         "https://topstreams.info/nba/clippers",
+        "https://soccermlbstreams.shop/tv/stream-7.php",
         "https://embedhd.org/source/fetch.php?hd=512",
         "https://live.onlyscooer.space/live/embed.php?ch=es17",
         "https://bizzstreams.shop/tv/stream-7.php",
         "https://ziggo-gratis.com/embeds/12.php",
         "https://prostreams.shop/now/stream-7.php",
         "https://techydeals.xyz/totalsportek1903425/nba/5.php",
-        "https://yeahstreams.com/tv/stream-7.php",
-        "https://buffztreamz.shop/tv/stream-7.php"
+        "https://yeahstreams.com/tv/stream-7.php"
       ],
-      "scraped_at": "2026-03-09T09:34:42.495322+00:00"
+      "scraped_at": "2026-03-09T10:32:01.317107+00:00"
     },
     {
       "home_team": "Houston Astros",
@@ -599,7 +599,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 7hr:41min",
+      "status": "Starts in 6hr:40min",
       "match_url": "https://www.footybite.army/Houston-Astros-vs-St.-Louis-Cardinals/59722",
       "kick_off": "",
       "iframe_urls": [
@@ -614,7 +614,7 @@
         "https://yeahstreams.com/tv/stream-921.php",
         "https://livesporthub.shop/live/stream-921.php"
       ],
-      "scraped_at": "2026-03-09T09:34:47.226337+00:00"
+      "scraped_at": "2026-03-09T10:32:05.589822+00:00"
     },
     {
       "home_team": "Atlanta Braves",
@@ -624,7 +624,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 7hr:41min",
+      "status": "Starts in 6hr:40min",
       "match_url": "https://www.footybite.army/Atlanta-Braves-vs-Minnesota-Twins/59723",
       "kick_off": "",
       "iframe_urls": [
@@ -635,7 +635,7 @@
         "https://techydeals.xyz/totalsportek1903425/mlb/1.php",
         "https://yeahstreams.com/tv/stream-385.php"
       ],
-      "scraped_at": "2026-03-09T09:34:51.612358+00:00"
+      "scraped_at": "2026-03-09T10:32:09.799191+00:00"
     },
     {
       "home_team": "Detroit Tigers",
@@ -645,7 +645,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 7hr:41min",
+      "status": "Starts in 6hr:40min",
       "match_url": "https://www.footybite.army/Detroit-Tigers-vs-Tampa-Bay-Rays/59724",
       "kick_off": "",
       "iframe_urls": [
@@ -653,7 +653,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es16",
         "https://techydeals.xyz/totalsportek1903425/mlb/3.php"
       ],
-      "scraped_at": "2026-03-09T09:34:55.910631+00:00"
+      "scraped_at": "2026-03-09T10:32:13.923766+00:00"
     },
     {
       "home_team": "Boston Red Sox",
@@ -663,7 +663,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 7hr:41min",
+      "status": "Starts in 6hr:40min",
       "match_url": "https://www.footybite.army/Boston-Red-Sox-vs-Philadelphia-Phillies/59725",
       "kick_off": "",
       "iframe_urls": [
@@ -671,7 +671,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es14",
         "https://techydeals.xyz/totalsportek1903425/mlb/2.php"
       ],
-      "scraped_at": "2026-03-09T09:35:00.232722+00:00"
+      "scraped_at": "2026-03-09T10:32:19.092608+00:00"
     },
     {
       "home_team": "St. Louis Cardinals",
@@ -681,7 +681,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 7hr:41min",
+      "status": "Starts in 6hr:40min",
       "match_url": "https://www.footybite.army/St.-Louis-Cardinals-vs-Baltimore-Orioles/59726",
       "kick_off": "",
       "iframe_urls": [
@@ -696,7 +696,7 @@
         "https://1ststreams.shop/stream/stream-399.php",
         "https://sportsstreams.shop/play/stream-399.php"
       ],
-      "scraped_at": "2026-03-09T09:35:04.804579+00:00"
+      "scraped_at": "2026-03-09T10:32:23.263305+00:00"
     },
     {
       "home_team": "Cincinnati Reds",
@@ -706,7 +706,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:41min",
+      "status": "Starts in 9hr:40min",
       "match_url": "https://www.footybite.army/Cincinnati-Reds-vs-Oakland-Athletics/59792",
       "kick_off": "",
       "iframe_urls": [
@@ -714,7 +714,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es10",
         "https://techydeals.xyz/totalsportek1903425/mlb/7.php"
       ],
-      "scraped_at": "2026-03-09T09:35:09.095029+00:00"
+      "scraped_at": "2026-03-09T10:32:27.435331+00:00"
     },
     {
       "home_team": "San Francisco Giants",
@@ -724,7 +724,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:41min",
+      "status": "Starts in 9hr:40min",
       "match_url": "https://www.footybite.army/San-Francisco-Giants-vs-Los-Angeles-Angels/59793",
       "kick_off": "",
       "iframe_urls": [
@@ -733,7 +733,7 @@
         "https://techydeals.xyz/totalsportek1903425/mlb/9.php",
         "https://yeahstreams.com/tv/stream-9.php"
       ],
-      "scraped_at": "2026-03-09T09:35:13.673539+00:00"
+      "scraped_at": "2026-03-09T10:32:31.643306+00:00"
     },
     {
       "home_team": "Chicago White Sox",
@@ -743,7 +743,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:41min",
+      "status": "Starts in 9hr:40min",
       "match_url": "https://www.footybite.army/Chicago-White-Sox-vs-Colorado-Rockies/59794",
       "kick_off": "",
       "iframe_urls": [
@@ -752,7 +752,7 @@
         "https://techydeals.xyz/totalsportek1903425/mlb/6.php",
         "https://yeahstreams.com/tv/stream-2.php"
       ],
-      "scraped_at": "2026-03-09T09:35:18.230175+00:00"
+      "scraped_at": "2026-03-09T10:32:35.993982+00:00"
     },
     {
       "home_team": "Kansas City Royals",
@@ -762,7 +762,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:41min",
+      "status": "Starts in 9hr:40min",
       "match_url": "https://www.footybite.army/Kansas-City-Royals-vs-Cleveland-Guardians/59795",
       "kick_off": "",
       "iframe_urls": [
@@ -770,7 +770,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es19",
         "https://techydeals.xyz/totalsportek1903425/mlb/8.php"
       ],
-      "scraped_at": "2026-03-09T09:35:22.797518+00:00"
+      "scraped_at": "2026-03-09T10:32:40.188961+00:00"
     },
     {
       "home_team": "Arizona Diamondbacks",
@@ -780,7 +780,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:46min",
+      "status": "Starts in 9hr:45min",
       "match_url": "https://www.footybite.army/Arizona-Diamondbacks-vs-Seattle-Mariners/59796",
       "kick_off": "",
       "iframe_urls": [
@@ -788,7 +788,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es70",
         "https://techydeals.xyz/totalsportek1903425/mlb/10.php"
       ],
-      "scraped_at": "2026-03-09T09:35:27.337476+00:00"
+      "scraped_at": "2026-03-09T10:32:44.325210+00:00"
     },
     {
       "home_team": "Milwaukee Brewers",
@@ -798,7 +798,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:46min",
+      "status": "Starts in 9hr:45min",
       "match_url": "https://www.footybite.army/Milwaukee-Brewers-vs-Los-Angeles-Dodgers/59797",
       "kick_off": "",
       "iframe_urls": [
@@ -811,9 +811,9 @@
         "https://buffztreamz.shop/tv/stream-399.php",
         "https://yeahstreams.com/tv/stream-399.php",
         "https://worldstreams.shop/tv/stream-399.php",
-        "https://1ststreams.shop/stream/stream-399.php"
+        "https://elitestreams.shop/live/stream-399.php"
       ],
-      "scraped_at": "2026-03-09T09:35:31.950490+00:00"
+      "scraped_at": "2026-03-09T10:32:48.862837+00:00"
     },
     {
       "home_team": "San Diego Padres",
@@ -823,7 +823,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 10hr:46min",
+      "status": "Starts in 9hr:45min",
       "match_url": "https://www.footybite.army/San-Diego-Padres-vs-Texas-Rangers/59798",
       "kick_off": "",
       "iframe_urls": [
@@ -831,7 +831,7 @@
         "https://live.onlyscooer.space/live/embed.php?ch=es71",
         "https://techydeals.xyz/totalsportek1903425/mlb/12.php"
       ],
-      "scraped_at": "2026-03-09T09:35:36.463450+00:00"
+      "scraped_at": "2026-03-09T10:32:53.016972+00:00"
     },
     {
       "home_team": "New York Mets",
@@ -841,7 +841,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 12hr:46min",
+      "status": "Starts in 11hr:45min",
       "match_url": "https://www.footybite.army/New-York-Mets-vs-Miami-Marlins/59799",
       "kick_off": "",
       "iframe_urls": [
@@ -856,7 +856,7 @@
         "https://buffztreamz.shop/tv/stream-399.php",
         "https://yeahstreams.com/tv/stream-759.php"
       ],
-      "scraped_at": "2026-03-09T09:35:42.566261+00:00"
+      "scraped_at": "2026-03-09T10:32:58.555580+00:00"
     },
     {
       "home_team": "New York Yankees",
@@ -866,7 +866,7 @@
       "score": "",
       "league": "mlb",
       "league_logo": "/images/mlb.png",
-      "status": "Starts in 13hr:11min",
+      "status": "Starts in 12hr:10min",
       "match_url": "https://www.footybite.army/New-York-Yankees-vs-Pittsburgh-Pirates/59800",
       "kick_off": "",
       "iframe_urls": [
@@ -881,7 +881,7 @@
         "https://1ststreams.shop/stream/stream-922.php",
         "https://sportsstreams.shop/play/stream-922.php"
       ],
-      "scraped_at": "2026-03-09T09:35:47.332637+00:00"
+      "scraped_at": "2026-03-09T10:33:02.700862+00:00"
     }
   ]
 }
